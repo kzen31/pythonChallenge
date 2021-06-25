@@ -1,0 +1,25 @@
+{
+   "table_name": "transactions",
+   "columns": [
+       {
+           "name": "id",
+           "type": "UUID"
+       },
+       {
+           "name": "insert_time",
+           "type": "TIMESTAMP"
+       },
+       {
+           "name": "tx_amount",
+           "type": "FLOAT"
+       },
+       {
+           "name": "tx_type",
+           "type": "STRING"
+       },
+       {
+           "name": "status",
+           "type": "STRING"
+       }
+   ]
+}
