@@ -1,5 +1,9 @@
-# pythonChallenge
+# PythonChallenge
 Task python use case from IYKRA
+
+This repo contain my task for Data Fellowship, there are many mistake. I just want to keep that, hehe.
+
+There are 3 task related to database:
 
 1. Using Dataset A, The table given to you cannot be updated, so if there is a change in the status of a transaction the new data is inserted instead of updating the status of the transaction, it will insert a new row with the same id and insert time based on the time when the row is inserted. You are assigned to create a view that only shows the most updated transactions for each id, so there is no duplicate id inside the view.
 
